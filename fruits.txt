@@ -1,5 +1,6 @@
 apples
 melon
+strawberry
 bananas
 cherries
 watermelon
